@@ -1,7 +1,0 @@
-diff --git a/README.md b/README.md
-index 8178c76..4a10ae6 100644
---- a/README.md
-+++ b/README.md
-@@ -1 +1 @@
--readme
-+readme version desarollo
